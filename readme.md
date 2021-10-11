@@ -2,7 +2,7 @@
 
 A simple gui made using Tkinter
 
-![Clock GUI](/bin/img/Capture.png?raw=true)
+![Clock GUI](/bin/img/Capture.PNG?raw=true)
 
 ## Folder Structure
 
